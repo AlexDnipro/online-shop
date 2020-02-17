@@ -54,5 +54,12 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "Tiny Home",
+        "image": "product1.jpg",
+        "description": "DIY house kit",
+        "price": 15999.99
     }
 ]
